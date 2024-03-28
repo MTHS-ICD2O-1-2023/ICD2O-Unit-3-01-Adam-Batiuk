@@ -16,3 +16,4 @@ function myButtonClicked() {
   const roundArea = Math.round(area * 100) / 100
   
   document.getElementById("answer").innerHTML = "Area is: " + roundArea + " mm²"
+}
