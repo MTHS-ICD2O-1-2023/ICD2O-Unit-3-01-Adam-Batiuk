@@ -1,5 +1,9 @@
-// Copyright (c) 2020 Mr. Coxall All rights reserved
+// Copyright (c) 2024 Mr. Adam Batiuk All rights reserved
 //
-// Created by: Mr. Coxall
-// Created on: Sep 2020
+// Created by: Adam Batiuk
+// Created on: Mar 2024
 // This file contains the JS functions for index.html
+
+function myButtonClicked() {
+  alert('Hello, World!')
+}
